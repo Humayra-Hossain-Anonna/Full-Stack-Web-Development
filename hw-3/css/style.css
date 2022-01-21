@@ -1,0 +1,167 @@
+.heading{
+    color: #652f81;
+}
+span{
+  color: #c7852a;  
+}
+
+table{
+    
+    width:70%;
+    border: 1px solid blue;
+}
+th,td{
+    
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid purple;
+}
+
+form{
+    width: 870px;
+    
+    text-align: left;
+}
+
+.container{
+    height:500px;
+    width: 870px;
+    
+    
+}
+.header{
+    height: 100px;
+    background-color: #93be61;
+    
+}
+.main{
+    height: 300px;
+    overflow: hidden;
+}
+.left{
+     height: 300px;
+    background-color: chartreuse;
+    width: 270px;
+    float: left;
+    
+}
+
+.middle{
+    height: 300px;
+    background-color: purple;
+    width: 370px;
+    float: left;
+}
+.right{
+    height: 300px;
+    background-color: firebrick;
+    width: 230px;
+    float: left;
+}
+
+.footer{
+    height: 100px;
+    background-color: #201e64; 
+}
+
+
+.container2{
+    height:400px;
+    width: 600px;
+    background-color: cornflowerblue;
+    border: 3px dotted black;
+    
+}
+.header2{
+    height: 50px;
+    background-color: #7892a5;
+    
+}
+.main2{
+    height: 250px;
+    overflow: hidden;
+}
+.left2{
+     height: 250px;
+    background-color: #814141;
+    width: 270px;
+    float: left;
+    
+}
+
+
+.right2{
+    height: 250px;
+    background-color: rgb(23, 137, 71);
+    width: 330px;
+    float: left;
+}
+
+.footer2{
+    height: 100px;
+    background-color: #201e64; 
+    overflow: hidden;
+    width:600px;
+    
+}
+.foot1{
+    height: 100px;
+    float: left;
+    background-color: crimson;
+    width:400px;
+}
+.foot2{
+    float: left;
+    background-color: #a0be23;
+    height: 100px;
+    width:200px;
+}
+
+
+
+
+
+.container3{
+    height:600px;
+    width: 870px;
+    background-color: cornflowerblue;
+    border: 1px square solid;
+    
+}
+.header3{
+    height: 200px;
+    background-color: #93be61;
+    
+}
+
+.left4{
+     height: 200px;
+    background-color: #3b2152;
+    width: 170px;
+    float: left;
+    
+}
+
+.middle4{
+    height: 200px;
+    background-color: #2e4612;
+    width: 470px;
+    float: left;
+}
+.right4{
+    height: 200px;
+    background-color: #835050;
+    width: 230px;
+    float: left;
+}
+.main{
+    height: 300px;
+    background-color: #74ffff;
+
+}
+
+.footer3{
+    height: 100px;
+    background-color: #d0c848; 
+}
+
